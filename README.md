@@ -21,7 +21,7 @@ npm install
 
 Start react-native-webpack-server.
 
-``shell
+```shell
 npm start
 ```
 
