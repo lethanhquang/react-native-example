@@ -39,8 +39,6 @@ On Android, start your emulator or connect your device and run `adb reverse tcp:
 
 **Note: No debugger or hot module replacement support is available yet for Android.**
 
-Checkout some of the [Examples](/Examples) to get started.
-
 ### Hot reload
 ```shell
 npm run hot
