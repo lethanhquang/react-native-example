@@ -11,7 +11,7 @@ The example is render the Map and show your location.
 
 ## Installing
 
-``shell
+```shell
 npm install
 ```
 
